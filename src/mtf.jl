@@ -1,6 +1,6 @@
 module mtf
 
-export TrackingFloat
+export TrackingFloat, value, getmax
 
 struct TrackingFloat <: AbstractFloat
     value::Float64
