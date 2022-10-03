@@ -3,6 +3,9 @@ uuid = "be14f6b6-5ab1-445e-a275-521e0645564e"
 authors = ["Frida-Norlund <82037342+Frida-Norlund@users.noreply.github.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1.8"
 
