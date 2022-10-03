@@ -1,5 +1,6 @@
 using mtf
 using Test
+using LinearAlgebra
 
 @testset "mtf.jl" begin
     
